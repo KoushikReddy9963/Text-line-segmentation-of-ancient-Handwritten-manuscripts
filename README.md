@@ -8,8 +8,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/text-line-segmentation.git
-   cd text-line-segmentation
+   https://github.com/KoushikReddy9963/Text-line-segmentation-of-ancient-Handwritten-manuscripts.git
+   cd Text-line-segmentation-of-ancient-Handwritten-manuscripts
    ```
 
 2. **Install Dependencies:**
@@ -97,7 +97,7 @@ The model is based on the U-Net architecture, ideal for image segmentation tasks
 
 A visual representation is provided below:
 
-![U-Net Architecture](screenshots/unet_architecture.png)
+![U-Net Architecture](https://github.com/KoushikReddy9963/Text-line-segmentation-of-ancient-Handwritten-manuscripts/blob/main/Screenshots/unet-architecture(1).png?raw=true)
 
 For details, see the original U-Net paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597).
 
